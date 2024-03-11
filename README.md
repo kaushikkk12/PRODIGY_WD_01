@@ -1,5 +1,5 @@
 # PRODIGY_WD_01
-# NexusVista Responsive Landing Page
+# NexusVista
 
 NexusVista is a responsive landing page created using HTML, CSS, and JavaScript. This landing page is designed to showcase a product, service, or any other promotional content in a visually appealing and user-friendly manner.
 
